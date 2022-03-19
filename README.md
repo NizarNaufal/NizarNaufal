@@ -1,6 +1,6 @@
 ### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-#Hello, I am a Mobile Engineer Mostly Using Kotlin , Java , Swift with 5+ Years Experience & 20 Projects, Building Android mobile applications: Android SDK, Dagger ,Koin, RxAndroid & RxJava, MVVM / MVP ,And I Also Having good knowledge on Scrum & Agile Methodologies, and also having hands on experience in Test Driven Development TDD
+I am a Mobile Engineer Mostly Using Kotlin , Java , Swift with 5+ Years Experience & 20 Projects, Building Android mobile applications: Android SDK, Dagger ,Koin, RxAndroid & RxJava, MVVM / MVP ,And I Also Having good knowledge on Scrum & Agile Methodologies, and also having hands on experience in Test Driven Development TDD
 
 - 🔭 I’m currently working in Telkom Indonesia
 - 🌱 I’m currently learning using Kotlin, Java , Swift , Flutter
