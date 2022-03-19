@@ -21,9 +21,5 @@
 
 </div>
 
-<div align = "center">
-  <img align="center" src= "https://github.com/VinayakBector2002/VinayakBector2002/blob/master/Contribution3D.jpg" />
-</div>
-
 -----
 Credits: [Nizar Naufal](https://github.com/NizarNaufal)
