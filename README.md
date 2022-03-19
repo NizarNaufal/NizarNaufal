@@ -1,11 +1,11 @@
 ### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🔭 I’m currently working on a COVID prediction model with my brother Kartikeya Bector
-- 🌱 I’m currently learning: predictions using ML(python) and about cryptocurrency 
+- 🔭 I’m currently working in Telkom Indonesia
+- 🌱 I’m currently learning: predictions using Kotlin
 - 👯 I’m looking to collaborate on making <a href ="https://github.com/NizarNaufal"> Zoom Virtual Background website </a>
 - 🤔 I’m looking for help with <a href = "https://github.com/NizarNaufal"> MY WEBSITE! </a>
 - 💬 Ask me about Python! 🐍
-- 📫 How to reach me: <a href ="mailto:bector.nizarnfl21@gmail.com">![Gmail Badge](https://img.shields.io/badge/-bector.vinayak02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bector.vinayak02@gmail.com)</a>
+- 📫 How to reach me: <a href ="mailto:bector.nizarnfl21@gmail.com">![Gmail Badge](https://img.shields.io/badge/-nizarnfl21@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nizarnfl21@gmail.com)</a>
 
 - ⚡ Fun fact: I can solve a rubiks cube in 30 seconds 
 <!--Got the trophies from https://github.com/ryo-ma/github-profile-trophy#margin-width -->
