@@ -2,7 +2,7 @@
 
 I am a Mobile Engineer Mostly Using Kotlin , Java , Swift with 8+ Years Experience & 20+ Projects, Building Android mobile applications: Android SDK, Dagger ,Koin, RxAndroid & RxJava, MVVM / MVP ,And I Also Having good knowledge on Scrum & Agile Methodologies, and also having hands on experience in Test Driven Development TDD
 
-- 🔭 I’m currently working in Telkom Indonesia
+- 🔭 I’m currently working in KreditPlus
 - 🌱 I’m currently learning using Kotlin, Java , Swift , Flutter
 - 💬 Ask me about Kotlin! 🐍
 - 📫 How to reach me: <a href ="mailto:nizarnfl21@gmail.com">![Gmail Badge](https://img.shields.io/badge/-nizarnfl21@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nizarnfl21@gmail.com)</a>
